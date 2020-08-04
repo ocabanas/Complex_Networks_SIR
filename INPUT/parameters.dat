@@ -1,0 +1,7 @@
+1			# Id of first node (0 or 1)
+10			# Initial infected nodes
+100			# Number of confinement steps
+500			# Number of periodes
+2.			# Infectation rate
+1.			# Rehab rate
+.FALSE.
